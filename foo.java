@@ -1,5 +1,9 @@
 asfjafja
 erfiaoejfaoer
 aeofja;erfaj
-aeorfjajrefa
+aoiefjaojefaefraoea
+public class foo {
+  public static void main(String[] args) {
+  }
+}
 aioejr
